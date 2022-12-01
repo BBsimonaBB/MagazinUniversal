@@ -16,7 +16,10 @@ Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.12+8-LTS-237, mixed mode)
 
 MySQL server is needed for the implementation of the database.
 The version of the server I use is 8.0.27 (MySQL Community Server - GPL)
-I personally use MySQL Workbench for the implementation of tables and relation.
+I personally use MySQL Workbench for the implementation of tables and relation.  
+Also, we need a .jar fille that will manage our connectoin between the Java application and the data base.
+I recommend using: mysql-connector-java-8:0:28.jar 
+as external library
 
 ## Usage
 
