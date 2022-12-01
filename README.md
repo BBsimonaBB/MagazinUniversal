@@ -35,7 +35,8 @@ The user can change the setting of the switch button to bavigate further into th
   ![image](https://user-images.githubusercontent.com/69772634/205094514-f28d0c74-cf2b-4ed1-b121-7d85036ab237.png)
 The image above shows all the clients that are stored in our relational database  
 
-Similar actions can be done on other entities such as products and orders.
+Similar actions can be done on other entities such as products and orders.  
+Another functionality that my application has is that the user can print a receipt of one of the orders already existent in the database. The output file is a .ttxt file that ocntians details about the given order.
 
 ## Further development
 The first thing I would develop further would be the user interface to make it friendlier and easier to use. Another thing that can be implemented would be some different use-cases. Instead of showing all the activities that an administrator can do, the application could show different rights for different types of users (client, employee)
